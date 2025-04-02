@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-![Validate Potential Team Boundaries](/assets/images/faster-flow-practices/validate-potential-team-boundaries.png){: width="400px" align="right"}
+![Validate Potential Team Boundaries](/assets/images/faster-flow-practices/validate-potential-boundaries.png){: width="400px" align="right"}
 
 ## Validate Boundaries with Independent Service Heuristics
 
