@@ -1,0 +1,29 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Overview"
+    url: /overview/
+  - title: "How It Works"
+    url: /how-it-works/
+  - title: "About"
+    url: /about/ 
+
+docs:
+  - title: "Overview"
+    url: /overview/
+  - title: "How it works"
+    url: /how-it-works/
+    children:
+    - title: 1. Understand Current Landscape
+      url: /how-it-works/1-understand-current-landscape
+    - title: 2. Identify blockers to flow
+      url: /how-it-works/2-identify-blockers-to-flow
+    - title: 3. Find new team boundaries
+      url: /how-it-works/3-find-new-team-boundaries
+    - title: 4. Validate potential team boundaries
+      url: /how-it-works/4-validate-potential-team-boundaries
+    - title: 5. Plan feasible futures
+      url: /how-it-works/5-plan-feasible-futures
+    - title: 6. Curate a flow roadmap
+      url: /how-it-works/6-curate-a-flow-roadmap
+    
