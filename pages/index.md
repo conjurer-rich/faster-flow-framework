@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: splash
-title: "Accelerate Your Organization’s Flow of Value"
-excerpt: "Clarity. Confidence. Continuous Alignment."
+title: "Accelerate your organization’s **flow of value**"
+excerpt: "Gain **Clarity**. Build **Confidence**. Achieve **Continuous Alignment**."
 header:
   overlay_color: "#1D2731"
   overlay_image: /assets/images/hero-bg.jpg
@@ -14,7 +14,6 @@ header:
       url: "/overview"
       btn_class: "btn--outline-light"
   text_color: "#F6F7F8"
-  caption: "Evolve your organization's flow with data-driven decisions"
 feature_row:
   - alt: "Minimize confusion and unclear ownership"
     title: "Minimize confusion and unclear ownership"
@@ -30,7 +29,9 @@ feature_row:
     image_path: /assets/images/strategic_alignment.png
 ---
 
-## Move Beyond Structure—Achieve Real Strategic Alignment
+![Faster Flow Framework](/assets/images/faster-flow-framework-overview.png)
+
+## Move beyond structure—achieve real strategic alignment
 
 Leaders today face persistent struggles: fragmented teams, stalled projects, unclear ownership, and slow innovation cycles. These challenges aren’t merely structural—they’re symptoms of deeper misalignments that hinder your organization's ability to deliver value effectively.
 
@@ -38,23 +39,21 @@ The Faster Flow Framework isn't just another restructuring method; it's a strate
 
 ## Why Organizations Need the Faster Flow Framework
 
-The faster flow framework was built specifically to help you:
-
 {% include feature_row %}
 
 ## Designed to Accelerate Your Path to Agility, Innovation, and Competitive Advantage
 
 The Faster Flow Framework was built specifically to help you:
 
-- **Understand Where You Are**: Clearly visualize your organization's existing flow and team boundaries.
+- **Understand where you are**: Clearly visualize your organization's existing flow and team boundaries.
 
-- **Diagnose Your Flow Issues**: Accurately pinpoint what’s slowing you down and holding you back.
+- **Diagnose your flow issues**: Accurately pinpoint what’s slowing you down and holding you back.
 
-- **Align for Success**: Confidently validate and implement structural changes, ensuring teams are naturally aligned with delivering value.
+- **Align for success**: Confidently validate and implement structural changes, ensuring teams are naturally aligned with delivering value.
 
-- **Plan With Clarity**: Develop feasible, clearly defined future states and roadmaps that align with your strategic vision.
+- **Plan with clarity**: Develop feasible, clearly defined future states and roadmaps that align with your strategic vision.
 
-## Real Outcomes, Proven Results
+## Real outcomes, proven results
 
 By building clarity, confidence, and continuous alignment into every step of structural evolution, the Faster Flow Framework delivers tangible results:
 
@@ -66,7 +65,7 @@ By building clarity, confidence, and continuous alignment into every step of str
 
 - Higher stakeholder satisfaction and confidence in organizational decisions
 
-## Take the Next Step Toward Better Flow
+## Take the next step toward better flow
 
 Ready to unlock your organization's true potential and achieve faster, smoother, strategically aligned flow?
 
