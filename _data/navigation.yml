@@ -2,17 +2,17 @@ main:
   - title: "Home"
     url: /
   - title: "Overview"
-    url: /overview/
+    url: /overview
   - title: "How It Works"
-    url: /how-it-works/
+    url: /how-it-works
   - title: "About"
-    url: /about/ 
+    url: /about 
 
 docs:
   - title: "Overview"
-    url: /overview/
+    url: /overview
   - title: "How it works"
-    url: /how-it-works/
+    url: /how-it-works
     children:
     - title: 1. Understand Current Landscape
       url: /how-it-works/1-understand-current-landscape
