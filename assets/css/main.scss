@@ -1,9 +1,17 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}";
 @import "minimal-mistakes";
 
 /* Custom styles */
+.page__hero--overlay .page__lead {
+    max-width: 80%;
+}
+
 .masthead {
   background-color: #1D2731;
 }

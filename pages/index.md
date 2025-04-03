@@ -37,13 +37,13 @@ Leaders today face persistent struggles: fragmented teams, stalled projects, unc
 
 The Faster Flow Framework isn't just another restructuring method; it's a strategic, outcome-oriented approach that helps organizations gain the clarity to see what’s really slowing them down, the confidence to act on bold decisions, and the continuous alignment to evolve structure in step with strategy.
 
-## Why Organizations Need the Faster Flow Framework
+## Why organizations need the Faster Flow Framework
 
 {% include feature_row %}
 
-## Designed to Accelerate Your Path to Agility, Innovation, and Competitive Advantage
+## Designed to accelerate your path to agility, innovation, and competitive advantage
 
-The Faster Flow Framework was built specifically to help you:
+The Faster Flow Framework was explicitly built to help you:
 
 - **Understand where you are**: Clearly visualize your organization's existing flow and team boundaries.
 
