@@ -10,13 +10,13 @@ classes: wide
 
 ![Identify Blockers to Flow](/assets/images/faster-flow-practices/identify-blockers-to-flow.png){: width="400px" align="right"}
 
-## Uncover What’s Really Slowing You Down
+## Uncover what’s really slowing you down
 
 After understanding your current landscape, the next step is to delve deeper into what’s hindering fast, aligned delivery. Blockers to flow often hide in plain sight—buried in dependencies, outdated assumptions, and invisible delays.
 
 The Faster Flow Framework helps you surface these hidden constraints quickly and collaboratively, enabling your organization to take practical steps forward with confidence.
 
-### Challenge Constraints with a Different Mindset
+### Challenge constraints with a different mindset
 
 We draw on powerful techniques from *A Beautiful Constraint* to reframe your current limitations:
 
@@ -26,7 +26,7 @@ We draw on powerful techniques from *A Beautiful Constraint* to reframe your cur
 
 These techniques help **minimize the effort** required to uncover blockers, while increasing your team’s ability to work with—and even leverage—existing constraints.
 
-### Visualize Delay and Misalignment with Team Interaction Modelling
+### Visualize delay and misalignment with team interaction modelling
 
 Even well-structured teams can struggle when their interactions aren’t designed for flow. We use **Team Interaction Modelling** to:
 
@@ -36,7 +36,7 @@ Even well-structured teams can struggle when their interactions aren’t designe
 
 This method surfaces where coordination costs are too high, where feedback loops are too slow, and where delivery falters—not because of individual performance, but because the system makes it hard to succeed.
 
-### Why This Matters
+### Why this matters
 
 Flow blockers don’t fix themselves. If left unexamined, they quietly erode trust, slow delivery, and increase team frustration.
 
@@ -46,4 +46,4 @@ By making blockers visible and actionable, your organization gains the ability t
 - Rethink constraints as springboards for innovation
 - Focus energy on what will truly improve the system
 
-[**Next Step → Find New Team Boundaries**](/how-it-works/3-find-new-team-boundaries)
+[**Next step → Find new team boundaries**](/how-it-works/3-find-new-team-boundaries)

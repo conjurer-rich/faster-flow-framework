@@ -10,13 +10,13 @@ classes: wide
 
 ![Curate a Flow Roadmap](/assets/images/faster-flow-practices/define-a-flow-roadmap.png){: width="400px" align="right"}
 
-## Turn Insight Into Action with a Flow Roadmap
+## Turn insights into action with a flow roadmap
 
 With strategic alignment, validated boundaries, and feasible futures in view, the final step is to bring it all together in a practical, navigable plan.
 
 The **Flow Roadmap** is the connective tissue between vision and execution. It helps your organization take an iterative, low-risk approach to structural evolution—while staying focused on improving flow.
 
-### Capture Key Decisions with Flow Decision Records
+### Capture key decisions with Flow Decision Records
 
 At the heart of the roadmap is a series of **Flow Decision Records (FDRs)**. Each record documents a specific decision, including:
 
@@ -27,7 +27,7 @@ At the heart of the roadmap is a series of **Flow Decision Records (FDRs)**. Eac
 
 FDRs are designed to **maximize clarity and utility**—not just for current leaders, but for those who come later. They form a traceable, evolving narrative of how and why flow-informed changes were made.
 
-### Organize Change with Now / Next / Later Planning
+### Organize change with Now / Next / Later planning
 
 We align decisions along a **Now / Next / Later** structure, making it easy to:
 
@@ -37,7 +37,7 @@ We align decisions along a **Now / Next / Later** structure, making it easy to:
 
 This structure provides **a practical, visual approach** to managing change while keeping flow at the center.
 
-### Why This Matters
+### Why this matters
 
 Without a clear and flexible roadmap, even the best insights get lost—or worse, stall in endless debate. The Flow Roadmap ensures that insights turn into coordinated action by:
 
@@ -47,4 +47,8 @@ Without a clear and flexible roadmap, even the best insights get lost—or worse
 
 Whether you're implementing small shifts or major reconfigurations, the Flow Roadmap keeps your organization moving forward—intentionally, iteratively, and in flow.
 
-[**Learn More → Facilitate Your First Flow Decision Record**](/resources)
+[**Learn more → Facilitate your first flow decision record**](/resources)
+
+## Want to run a Faster Flow Framework cohort at your organization?
+
+If you are interested in running a Faster Flow Framework cohort at your organization, please [book a consultation](/contact) to discuss your needs.

@@ -5,11 +5,11 @@ title: "About the Faster Flow Framework"
 author_profile: true
 ---
 
-## Our Mission
+## Our mission
 
 The Faster Flow Framework was created to help organizations systematically improve their value delivery by making data-driven decisions about team structures and boundaries. We believe that better flow leads to better outcomes for organizations, teams, and individuals.
 
-## Our Story
+## Our story
 
 The framework emerged from years of experience helping organizations optimize their structures and processes. We noticed that many organizations struggled with:
 
@@ -20,7 +20,7 @@ The framework emerged from years of experience helping organizations optimize th
 
 This led us to develop a systematic approach that combines proven methodologies with practical tools and templates.
 
-## The Team
+## The team
 
 ### Rich Allen
 
@@ -42,13 +42,13 @@ Rich Allen is a recognized expert in organizational design and flow optimization
 - Developed the Faster Flow Framework
 - Led successful transformations
 
-## Our Approach
+## Our approach
 
-### Core Beliefs
+### Core beliefs
 
-1. **Data-Driven Decisions**: Changes should be based on evidence, not guesswork
-2. **Systematic Process**: A clear, repeatable approach leads to better outcomes
-3. **Continuous Improvement**: Organizations should evolve and adapt
+1. **Data-driven decisions**: Changes should be based on evidence, not guesswork
+2. **Systematic process**: A clear, repeatable approach leads to better outcomes
+3. **Continuous improvement**: Organizations should evolve and adapt
 4. **Team Empowerment**: People closest to the work know best
 5. **Sustainable Change**: Solutions should be practical and maintainable
 
@@ -65,9 +65,9 @@ The Faster Flow Framework combines industry-leading practices to help you:
 - **Explore feasible futures**: Identify your Ideal Future and identify the evolutionary steps to take to get there (Team Interaction Modelling - Team Topologies - Matthew Skelton and Manuel Pais)
 - **Build a flow roadmap**: Build a list of flow decisions that capture the incremental steps to take to improve flow of value (Flow Roadmap - Flow Engineering - Steve Pereira and Andrew Davis, Flow Decision Records - Rich Allen)
 
-## Our Impact
+## Our impact
 
-### Organizations We've Helped
+### Organizations we've helped
 
 - Technology companies
 - Financial services
@@ -75,25 +75,16 @@ The Faster Flow Framework combines industry-leading practices to help you:
 - Retail organizations
 - Startups and scale-ups
 
-### Key Achievements
+### Key achievements
 
 - 40% reduction in lead times
 - 35% improvement in team satisfaction
 - 30% faster time to market
 - 25% increase in innovation rate
 
-## Community & Collaboration
+## Community & collaboration
 
-### Open Source
-
-The Faster Flow Framework is built on open source principles:
-
-- Transparent methodology
-- Community contributions
-- Shared knowledge
-- Collaborative improvement
-
-### Community Engagement
+### Community engagement
 
 We actively engage with:
 
@@ -102,7 +93,7 @@ We actively engage with:
 - Academic research
 - Practitioner networks
 
-## Our Commitment
+## Our commitment
 
 ### Quality
 
@@ -122,11 +113,11 @@ We provide comprehensive support:
 - Resource library
 - Community forums
 
-## Contact Us
+## Contact us
 
-### Get in Touch
+### Get in touch
 
-- [Book a Consultation](/contact)
-- [Request Information](/contact)
-- [Schedule Training](/contact)
-- [Get Support](/contact)
+- [Book a consultation](/contact)
+- [Request information](/contact)
+- [Schedule training](/contact)
+- [Get support](/contact)

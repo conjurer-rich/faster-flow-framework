@@ -10,13 +10,13 @@ classes: wide
 
 ![Faster Flow Framework](/assets/images/faster-flow-framework-abstract-wide.png){: width="100%" }
 
-## A Systematic Approach to Organizational Flow
+## A systematic approach to organizational flow
 
 The Faster Flow Framework is a step-by-step process designed to help organizations optimize their value delivery by systematically mapping structures, uncovering blockers, and validating new boundaries. At its core, it uses industry-proven practices to explore feasible futures and validate organizational changes.
 
-## Core Principles
+## Core principles
 
-### 1. Data-Driven Decision Making
+### 1. Data-driven decision making
 
 - Base organizational changes on concrete evidence
 - Use metrics to validate proposed changes
@@ -40,7 +40,7 @@ The Faster Flow Framework is a step-by-step process designed to help organizatio
 - Iterative refinement of structures
 - Adaptation to changing market conditions
 
-## Who Is It For?
+## Who is it for?
 
 The Faster Flow Framework is particularly valuable for:
 
@@ -50,36 +50,30 @@ The Faster Flow Framework is particularly valuable for:
 - **Business Leaders**: Seeking to optimize value delivery
 - **Team Members**: Wanting to understand and improve their work context
 
-## Key Benefits
+## Key benefits
 
-### For Organizations
+### For organizations
 
 - Reduced lead time and improved delivery speed
 - Better alignment between strategy and structure
 - Lower risk in organizational changes
 - Enhanced team satisfaction and engagement
 
-### For Teams
+### For teams
 
 - Clearer boundaries and responsibilities
 - Improved collaboration and communication
 - Better understanding of value flow
 - Reduced confusion and friction
 
-### For Leaders
+### For leaders
 
 - Data-driven decision making
 - Systematic approach to change
 - Better risk management
 - Clearer vision of organizational flow
 
-## Getting Started
-
-Ready to transform your organization's flow? Choose your path:
-
-- [Book a Consultation](/contact) - Get personalized guidance
-
-## Why It Works
+## Why it works
 
 The Faster Flow Framework succeeds because it:
 
@@ -89,8 +83,14 @@ The Faster Flow Framework succeeds because it:
 - **Focuses on Flow**: Prioritizes value delivery
 - **Is Adaptable**: Works across different organizational contexts
 
-## Next Steps
+## Next steps
 
 Ready to learn more? Explore:
 
-- [How It Works](/how-it-works) - Detailed process overview
+- [How it works](/how-it-works) - Detailed process overview
+
+## Get started
+
+Ready to transform your organization's flow? Choose your path:
+
+- [Book a consultation](/contact) - Get personalized guidance

@@ -10,7 +10,7 @@ classes: wide
 
 ![Validate Potential Team Boundaries](/assets/images/faster-flow-practices/validate-potential-boundaries.png){: width="400px" align="right"}
 
-## Validate Boundaries with Independent Service Heuristics
+## Validate boundaries with independent service heuristics
 
 Finding a potential boundary is just the start. We guide teams through a lightweight, collaborative validation process using **Independent Service Heuristics**, which:
 
@@ -20,7 +20,7 @@ Finding a potential boundary is just the start. We guide teams through a lightwe
 
 This process **maximizes confidence** in the proposed structure, reducing the risk of reorganizing around weak or unstable divisions.
 
-### Why This Matters
+### Why this matters
 
 Without careful validation, even well-intended restructures can introduce new problems. By grounding boundary changes in **real user needs** and **collaborative heuristics**, your teams are more likely to:
 
@@ -28,4 +28,4 @@ Without careful validation, even well-intended restructures can introduce new pr
 - Avoid coordination overload
 - Adapt to change without constant rework
 
-[**Next Step → Plan Feasible Futures**](/how-it-works/5-plan-feasible-futures)
+[**Next step → Explore feasible futures**](/how-it-works/5-plan-feasible-futures)
