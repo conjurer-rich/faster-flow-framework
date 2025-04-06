@@ -18,15 +18,15 @@ feature_row:
   - alt: "Minimize confusion and unclear ownership"
     title: "Minimize confusion and unclear ownership"
     excerpt: "Create clearly defined boundaries, ensuring teams know precisely what they're responsible for and can confidently take ownership."
-    image_path: /assets/images/unclear_boundaries.png
+    image_path: /assets/images/confusion-and-unclear-ownership.png
   - alt: "Reduce delivery slowdowns and bottlenecks"
     title: "Reduce delivery slowdowns and bottlenecks"
     excerpt: "Identify hidden blockers that stall critical initiatives, enabling smoother and faster value delivery."
-    image_path: /assets/images/reduce_delivery_slowdowns.png
+    image_path: /assets/images/bottlenecks.png
   - alt: "Increase strategic alignment and decision-making confidence"
     title: "Increase strategic alignment and decision-making confidence"
     excerpt: "Validate new organizational boundaries quickly and confidently, ensuring every decision supports your strategic priorities." 
-    image_path: /assets/images/strategic_alignment.png
+    image_path: /assets/images/strategic-direction.png
 ---
 
 ![Faster Flow Framework](/assets/images/faster-flow-framework-overview.png)
@@ -64,6 +64,10 @@ By building clarity, confidence, and continuous alignment into every step of str
 - Increased clarity around roles and responsibilities
 
 - Higher stakeholder satisfaction and confidence in organizational decisions
+
+## Want to learn more?
+
+Take a look at an [Overview of the Faster Flow Framework](/overview) for insights into the core principles, who it is for, key benefits, and why it works.
 
 ## Take the next step toward better flow
 

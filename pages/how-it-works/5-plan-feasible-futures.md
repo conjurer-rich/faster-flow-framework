@@ -46,4 +46,4 @@ By combining strategic tools with interaction modeling, you gain:
 - **Confidence in your path** to evolve structure over time
 - A shared vision of how flow and alignment can improve together
 
-[**Next step → Define a flow roadmap**](/how-it-works/6-define-a-flow-roadmap)
+[**Next step → Curate a flow roadmap**](/how-it-works/6-curate-a-flow-roadmap)
