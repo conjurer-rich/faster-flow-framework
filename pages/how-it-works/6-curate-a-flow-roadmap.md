@@ -47,8 +47,6 @@ Without a clear and flexible roadmap, even the best insights get lost—or worse
 
 Whether you're implementing small shifts or major reconfigurations, the Flow Roadmap keeps your organization moving forward—intentionally, iteratively, and in flow.
 
-[**Learn more → Facilitate your first flow decision record**](/resources)
-
 ## Want to run a Faster Flow Framework cohort at your organization?
 
 If you are interested in running a Faster Flow Framework cohort at your organization, please [book a consultation](/contact) to discuss your needs.
